@@ -109,7 +109,36 @@ Jose Rodriguez */
     background-image: url('https://hips.hearstapps.com/hmg-prod/images/first-day-of-winter-solstice-2021-1638278570.jpg?crop=0.8337777777777778xw:1xh;center,top&resize=1200:*');
   }
   
-  
+  /* Add this at the end of your style.css file */
+
+/* Responsive styles for smaller screens */
+@media (max-width: 600px) {
+  .wrapper {
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+  }
+
+  .container {
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+  }
+
+  .card {
+    width: 100%;
+    margin: 10px 0;
+    box-shadow: 0px 5px 15px -5px rgba(0, 0, 0, 0.5);
+  }
+
+  input:checked + label {
+    width: 100%;
+  }
+
+  .card > .row > .description {
+    width: 100%;
+  }
+}
   
   
   
