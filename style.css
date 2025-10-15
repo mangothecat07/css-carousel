@@ -113,7 +113,6 @@ input:checked + label .description {
 /* Responsive styles for smaller screens */
 /* Add this to your style.css file */
 
-/* Ensure the wrapper and container fit within the screen */
 /* Ensure the wrapper and container fit within the screen only for smaller screens */
 @media (max-width: 600px) {
   .wrapper {
