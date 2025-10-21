@@ -97,15 +97,15 @@ input:checked + label .description {
 }
 
 .card[for="c2"] {
-  background-image: url('https://hips.hearstapps.com/hmg-prod/images/first-day-of-winter-solstice-2021-1638278570.jpg?crop=0.8337777777777778xw:1xh;center,top&resize=1200:*');
+  background-image: url('https://www.shutterstock.com/image-vector/ai-ascendancy-futuristic-society-ruled-600nw-2318593461.jpg');
 }
 
 .card[for="c3"] {
-  background-image: url('https://hips.hearstapps.com/hmg-prod/images/first-day-of-winter-solstice-2021-1638278570.jpg?crop=0.8337777777777778xw:1xh;center,top&resize=1200:*');
+  background-image: url('https://lh4.googleusercontent.com/proxy/sd_pGyBygxLO-oTtYNauti1PiZUhqwlWo8HTDWY5pbZvmZcA6OU_E3SAN0L0xMDI8U2D8RMMLuvNkrWbXdgKhN9A9ll4S9vhfQ0-c6ns6jJ2w2g4-3WMYJZcDYld6ul73yS338J9TA');
 }
 
 .card[for="c4"] {
-  background-image: url('https://hips.hearstapps.com/hmg-prod/images/first-day-of-winter-solstice-2021-1638278570.jpg?crop=0.8337777777777778xw:1xh;center,top&resize=1200:*');
+  background-image: url('https://d3vjn2zm46gms2.cloudfront.net/blogs/2017/08/18152952/editB0016586.jpg');
 }
 
 /* Add this at the end of your style.css file */
